@@ -3,6 +3,7 @@
 I'm passionate about coding and working on diverse projects in Back-end Development, Cloud Technology. 
 
 Here's an overview of the languages I use in my GitHub projects: 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehalds-dev&layout=compact&theme=tokyonight) 
 
 - 🔭 I’m currently working on Back-end Development, Full Stack development
